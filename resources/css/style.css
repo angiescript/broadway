@@ -3,8 +3,46 @@ body {
   text-align: center;
 }
 
-h1 {
-  color: white;
+#heading {
   font-size: 70px;
   font-weight: bold;
+
+}
+
+h2 {
+  font-size:32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.top {
+  background-image: url("../images/background.png");
+  color: white;
+  font-size: 18px;
+
+}
+
+.middle-line {
+  background-image: url("../images/background.png");
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+a {
+  color: white;
+  font-size: 18px;
 }
